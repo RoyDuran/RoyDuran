@@ -5,7 +5,7 @@ Soy un Programador de Aplicaciones Web con formación en Desarrollo de Aplicacio
 ## 🔧 Tecnologías y Herramientas
 
 - **Lenguajes**: PHP, JavaScript, Java, C++
-- **Frameworks**: Node.js, Bootstrap
+- **Frameworks**: Bootstrap, jquery
 - **Bases de Datos**: MySQL
 - **Otras Herramientas**: Git, AWS, VSCode, NetBeans
 
@@ -22,9 +22,8 @@ Plataforma en PHP y JavaScript que permite crear y enviar postales personalizada
 
 ## 🌱 Actualmente Aprendiendo
 
-- [Desarollo web en entorno cliente] (JavaScript)
-- [Desarollo web en entorno servidor] (PHP) 
-- [Despliegue de Aplicaciones Web] (AWS)
+- [Desarollo web en entorno cliente] (Vue) 
+- [Despliegue de Aplicaciones Web] (React,Node.js)
 
 ## 💬 Conéctate conmigo
 

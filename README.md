@@ -11,17 +11,14 @@ Soy un Programador de Aplicaciones Web con formación en Desarrollo de Aplicacio
 
 ## 🚀 Proyectos Destacados
 
-### 1. [Aplicación de enviar correos electrónicos](https://github.com/tu_usuario/nombre-del-repositorio-1)
-Este proyecto consiste en la implementación de una solución para el envío automático de correos electrónicos desde un servidor web Axigen utilizando PHPmailer. El objetivo principal es facilitar la integración de un sistema de correo electrónico eficiente y seguro en aplicaciones web. 
-🔧 **Tecnologías**: PHP, HTML, CSS.
+📘 Gestión de Prácticas FCT
+Sistema web desarrollado con Node.js, React y MySQL que permite administrar las prácticas de Formación en Centros de Trabajo (FCT). Facilita la asignación de alumnos, gestión de tutores, seguimiento del estado de las prácticas y administración de empresas colaboradoras.
 
-### 2. [Nombre del Proyecto 2](https://github.com/tu_usuario/nombre-del-repositorio-2)
-Descripción breve del proyecto 2. Aquí puedes explicar por qué lo creaste y qué aportó.  
-🔧 **Tecnologías**: Python, Flask, MongoDB.
+🚔 Gestión de Multas con Java y MySQL
+Aplicación en Java con JSP y Servlets que permite registrar y administrar multas de tráfico. Soporta múltiples roles de usuario, permitiendo a los administradores gestionar sanciones, a los usuarios consultar sus infracciones y a los representantes visualizar las multas de sus representados.
 
-### 3. [Nombre del Proyecto 3](https://github.com/tu_usuario/nombre-del-repositorio-3)
-Descripción de lo que hace este proyecto. Algo que sea importante resaltar.  
-🔧 **Tecnologías**: JavaScript, MySQL.
+💌 Envío de Postales Digitales con PHP
+Plataforma en PHP y JavaScript que permite crear y enviar postales personalizadas por correo electrónico. Los usuarios pueden seleccionar imágenes, escribir mensajes personalizados y gestionar destinatarios de manera sencilla. Ideal para compartir momentos especiales.
 
 ## 🌱 Actualmente Aprendiendo
 
